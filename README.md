@@ -6,13 +6,9 @@
   </a>
 </p>
 
-For the latest information about Apache ZooKeeper, please visit our website at:
+For the latest information about Apache ZooKeeper, please visit our website at: https://zookeeper.apache.org
 
-   https://zookeeper.apache.org
-
-and our wiki, at:
-
-   https://cwiki.apache.org/confluence/display/ZOOKEEPER
+and our wiki, at: https://cwiki.apache.org/confluence/display/ZOOKEEPER
 
  Packaging/release artifacts
 
@@ -35,9 +31,7 @@ found in zookeeper-assembly/target directory after building the project with mav
 
 As of version 3.5.5, the parent, zookeeper and zookeeper-jute artifacts
 are deployed to the central repository after the release
-is voted on and approved by the Apache ZooKeeper PMC:
-
-  https://repo1.maven.org/maven2/org/apache/zookeeper/zookeeper
+is voted on and approved by the Apache ZooKeeper PMC: https://repo1.maven.org/maven2/org/apache/zookeeper/zookeeper
 
  Java 8
 
@@ -57,6 +51,6 @@ We always welcome new contributors to the project! See [How to Contribute](https
 [trBadge]: https://travis-ci.org/apache/zookeeper.svg?branch=master
 [trLink]: https://travis-ci.org/apache/zookeeper
 
-//Changed Subtitles from bold to not bold.
+//Changed Subtitles from bold to not bold. And moved links next to its description/function.
 Changes by:
 https://www.linkedin.com/in/thabang-benny-kwinana-85370a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHjg5S0LXQ6ubRW8HT1QnwQ%3D%3D
