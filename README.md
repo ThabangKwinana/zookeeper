@@ -14,7 +14,7 @@ and our wiki, at:
 
    https://cwiki.apache.org/confluence/display/ZOOKEEPER
 
-## Packaging/release artifacts
+ Packaging/release artifacts
 
 Either downloaded from https://zookeeper.apache.org/releases.html or
 found in zookeeper-assembly/target directory after building the project with maven.
@@ -39,12 +39,12 @@ is voted on and approved by the Apache ZooKeeper PMC:
 
   https://repo1.maven.org/maven2/org/apache/zookeeper/zookeeper
 
-## Java 8
+ Java 8
 
 If you are going to compile with Java 1.8, you should use a
 recent release at u211 or above.
 
-# Contributing
+ Contributing
 We always welcome new contributors to the project! See [How to Contribute](https://cwiki.apache.org/confluence/display/ZOOKEEPER/HowToContribute) for details on how to submit patches as pull requests and other aspects of our contribution workflow.
 
 
@@ -56,3 +56,7 @@ We always welcome new contributors to the project! See [How to Contribute](https
 [mcLink]: https://zookeeper.apache.org/releases
 [trBadge]: https://travis-ci.org/apache/zookeeper.svg?branch=master
 [trLink]: https://travis-ci.org/apache/zookeeper
+
+//Changed Subtitles from bold to not bold.
+Changes by:
+https://www.linkedin.com/in/thabang-benny-kwinana-85370a234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHjg5S0LXQ6ubRW8HT1QnwQ%3D%3D
